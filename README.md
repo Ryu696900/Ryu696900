@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Network Infrastructure Company<br>🤝 I’m looking for help with<br>🌱 I’m currently learning
+🔭 I’m currently working on IT Infrastructure Company<br>🤝 I’m looking for help with<br>🌱 I’m currently learning
 
 
 # 💻 Tech Stack:
